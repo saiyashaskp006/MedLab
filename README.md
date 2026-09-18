@@ -3,6 +3,10 @@
 A clinical-grade, end-to-end medical diagnostic and decision support tool for **Diabetic Retinopathy (DR)** from retinal fundus imaging. Built with **PyTorch (ResNet50)**, **Ben Graham's illumination-equalized preprocessing**, **Grad-CAM visual attribution**, and an interactive **Streamlit** clinical dashboard.
 
 ---
+## 🚀 Live Demo
+
+[Visit RetinaXAI Application](https://saiyashaskp006-medlab-app-x5aoe1.streamlit.app/)
+
 
 ## 📋 Table of Contents
 1. [Clinical Problem Background](#clinical-problem-background)
