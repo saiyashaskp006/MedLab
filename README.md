@@ -6,6 +6,7 @@ A clinical-grade, end-to-end medical diagnostic and decision support tool for **
 ## 🚀 Live Demo
 
 [Visit RetinaXAI Application](https://saiyashaskp006-medlab-app-x5aoe1.streamlit.app/)
+<img width="450" height="450" alt="webqr" src="https://github.com/user-attachments/assets/dc6a22ef-315e-4464-926c-c039888640b8" />
 
 
 ## 📋 Table of Contents
